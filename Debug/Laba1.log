@@ -1,0 +1,4 @@
+﻿  Laba1.cpp
+C:\Users\Admin\source\repos\Laba1\Laba1\Laba1.cpp(18,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\source\repos\Laba1\Laba1\Laba1.cpp(29,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Laba1.vcxproj -> C:\Users\Admin\source\repos\Laba1\Debug\Laba1.exe
