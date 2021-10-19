@@ -3,7 +3,7 @@
 #include <random>
 
 int initalizationArray(int arr[]) {
-    for (int i = 0; i < 15; i++) {
+    for(int i = 0; i < 15; i++) {
         arr[i] = i;
     }
     return 0;
